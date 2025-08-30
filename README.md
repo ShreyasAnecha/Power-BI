@@ -23,3 +23,5 @@ Detailed Breakdown: Monthly summary of Low Price, High Price, Close Price, and T
 This dashboard helps investors, analysts, and students to study Tata Steel’s stock behavior over time and make data-driven insights about its trading patterns.
 
 Would you like me to also add a ready-made README.md file (with proper formatting and sections like Installation, Usage, and Screenshot) so you can directly upload it to GitHub?
+
+GitHub:- https://github.com/ShreyasAnecha/Power-BI/blob/main/Snapshot%20of%20Dashboard.png
